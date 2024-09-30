@@ -1,52 +1,25 @@
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text">
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aider 是你终端中的人工智能结对编程</font></font></h1><a id="user-content-aider-is-ai-pair-programming-in-your-terminal" class="anchor" aria-label="永久链接：Aider 是你终端中的人工智能结对编程" href="#aider-is-ai-pair-programming-in-your-terminal"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aider 可让您将程序与 LLM 配对，以编辑本地 git 存储库中的代码。开始新项目或使用现有的 git 存储库。Aider 最适合与 GPT-4o 和 Claude 3.5 Sonnet 配合使用，并且可以
+</font></font><a href="https://aider.chat/docs/llms.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接到几乎任何 LLM</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
 
-<!-- Edit README.md, not index.md -->
-
-# Aider is AI pair programming in your terminal
-
-Aider lets you pair program with LLMs,
-to edit code in your local git repository.
-Start a new project or work with an existing git repo.
-Aider works best with GPT-4o & Claude 3.5 Sonnet and can 
-[connect to almost any LLM](https://aider.chat/docs/llms.html).
-
-<!-- SCREENCAST START -->
-<p align="center">
-  <img
-    src="https://aider.chat/assets/screencast.svg"
-    alt="aider screencast"
-  >
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6d2d9a8d839bed3d9dc1bf62d47f0767e19906ce76d369a78ef9805dbfb34609/68747470733a2f2f61696465722e636861742f6173736574732f73637265656e636173742e737667"><img src="https://camo.githubusercontent.com/6d2d9a8d839bed3d9dc1bf62d47f0767e19906ce76d369a78ef9805dbfb34609/68747470733a2f2f61696465722e636861742f6173736574732f73637265656e636173742e737667" alt="助手截屏" data-canonical-src="https://aider.chat/assets/screencast.svg" style="max-width: 100%;"></a>
 </p>
-<!-- SCREENCAST END -->
 
-<!-- VIDEO START
-<p align="center">
-  <video style="max-width: 100%; height: auto;" autoplay loop muted playsinline>
-    <source src="/assets/shell-cmds-small.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
-VIDEO END -->
 
-<p align="center">
-  <a href="https://discord.gg/Tv2uQnR88V">
-    <img src="https://img.shields.io/badge/Join-Discord-blue.svg"/>
+<p align="center" dir="auto">
+  <a href="https://discord.gg/Tv2uQnR88V" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/4ab2f746f002096dc358c7ec3aa1b593214a80fcdb19a45c10fcafcd71374093/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d446973636f72642d626c75652e737667" data-canonical-src="https://img.shields.io/badge/Join-Discord-blue.svg" style="max-width: 100%;">
   </a>
-  <a href="https://aider.chat/docs/install.html">
-    <img src="https://img.shields.io/badge/Read-Docs-green.svg"/>
+  <a href="https://aider.chat/docs/install.html" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/8d42157ba380841a473ad00ae657c6b1d10de3d294490b954786863b19320188/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526561642d446f63732d677265656e2e737667" data-canonical-src="https://img.shields.io/badge/Read-Docs-green.svg" style="max-width: 100%;">
   </a>
 </p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接：入门指南" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
-## Getting started
-<!--[[[cog
-# We can't "include" here.
-# Because this page is rendered by GitHub as the repo README
-cog.out(open("aider/website/_includes/get-started.md").read())
-]]]-->
-
-You can get started quickly like this:
-
-```
-python -m pip install -U aider-chat
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以像这样快速开始：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>python -m pip install -U aider-chat
 
 # Change directory into a git repo
 cd /to/your/git/repo
@@ -58,79 +31,93 @@ aider
 # Work with GPT-4o on your repo
 export OPENAI_API_KEY=your-key-goes-here
 aider 
-```
-<!--[[[end]]]-->
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="python -m pip install -U aider-chat
 
-See the
-[installation instructions](https://aider.chat/docs/install.html)
-and other
-[documentation](https://aider.chat/docs/usage.html)
-for more details.
+# Change directory into a git repo
+cd /to/your/git/repo
 
-## Features
+# Work with Claude 3.5 Sonnet on your repo
+export ANTHROPIC_API_KEY=your-key-goes-here
+aider
 
-- Run aider with the files you want to edit: `aider <file1> <file2> ...`
-- Ask for changes:
-  - Add new features or test cases.
-  - Describe a bug.
-  - Paste in an error message or or GitHub issue URL.
-  - Refactor code.
-  - Update docs.
-- Aider will edit your files to complete your request.
-- Aider [automatically git commits](https://aider.chat/docs/git.html) changes with a sensible commit message.
-- Aider works with [most popular languages](https://aider.chat/docs/languages.html): python, javascript, typescript, php, html, css, and more...
-- Aider works best with GPT-4o & Claude 3.5 Sonnet and can [connect to almost any LLM](https://aider.chat/docs/llms.html).
-- Aider can edit multiple files at once for complex requests.
-- Aider uses a [map of your entire git repo](https://aider.chat/docs/repomap.html), which helps it work well in larger codebases.
-- Edit files in your editor while chatting with aider,
-and it will always use the latest version.
-Pair program with AI.
-- [Add images to the chat](https://aider.chat/docs/usage/images-urls.html) (GPT-4o, Claude 3.5 Sonnet, etc).
-- [Add URLs to the chat](https://aider.chat/docs/usage/images-urls.html) and aider will read their content.
-- [Code with your voice](https://aider.chat/docs/usage/voice.html).
+# Work with GPT-4o on your repo
+export OPENAI_API_KEY=your-key-goes-here
+aider " tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
 
-
-## Top tier performance
-
-[Aider has one of the top scores on SWE Bench](https://aider.chat/2024/06/02/main-swe-bench.html).
-SWE Bench is a challenging software engineering benchmark where aider
-solved *real* GitHub issues from popular open source
-projects like django, scikitlearn, matplotlib, etc.
-
-## More info
-
-- [Documentation](https://aider.chat/)
-- [Installation](https://aider.chat/docs/install.html)
-- [Usage](https://aider.chat/docs/usage.html)
-- [Tutorial videos](https://aider.chat/docs/usage/tutorials.html)
-- [Connecting to LLMs](https://aider.chat/docs/llms.html)
-- [Configuration](https://aider.chat/docs/config.html)
-- [Troubleshooting](https://aider.chat/docs/troubleshooting.html)
-- [LLM Leaderboards](https://aider.chat/docs/leaderboards/)
-- [GitHub](https://github.com/paul-gauthier/aider)
-- [Discord](https://discord.gg/Tv2uQnR88V)
-- [Blog](https://aider.chat/blog/)
-
-
-## Kind words from users
-
-- *The best free open source AI coding assistant.* -- [IndyDevDan](https://youtu.be/YALpX8oOn78)
-- *The best AI coding assistant so far.* -- [Matthew Berman](https://www.youtube.com/watch?v=df8afeb1FY8)
-- *Aider ... has easily quadrupled my coding productivity.* -- [SOLAR_FIELDS](https://news.ycombinator.com/item?id=36212100)
-- *It's a cool workflow... Aider's ergonomics are perfect for me.* -- [qup](https://news.ycombinator.com/item?id=38185326)
-- *It's really like having your senior developer live right in your Git repo - truly amazing!* -- [rappster](https://github.com/paul-gauthier/aider/issues/124)
-- *What an amazing tool. It's incredible.* -- [valyagolev](https://github.com/paul-gauthier/aider/issues/6#issue-1722897858)
-- *Aider is such an astounding thing!* -- [cgrothaus](https://github.com/paul-gauthier/aider/issues/82#issuecomment-1631876700)
-- *It was WAY faster than I would be getting off the ground and making the first few working versions.* -- [Daniel Feldman](https://twitter.com/d_feldman/status/1662295077387923456)
-- *THANK YOU for Aider! It really feels like a glimpse into the future of coding.* -- [derwiki](https://news.ycombinator.com/item?id=38205643)
-- *It's just amazing.  It is freeing me to do things I felt were out my comfort zone before.* -- [Dougie](https://discord.com/channels/1131200896827654144/1174002618058678323/1174084556257775656)
-- *This project is stellar.* -- [funkytaco](https://github.com/paul-gauthier/aider/issues/112#issuecomment-1637429008)
-- *Amazing project, definitely the best AI coding assistant I've used.* -- [joshuavial](https://github.com/paul-gauthier/aider/issues/84)
-- *I absolutely love using Aider ... It makes software development feel so much lighter as an experience.* -- [principalideal0](https://discord.com/channels/1131200896827654144/1133421607499595858/1229689636012691468)
-- *I have been recovering from multiple shoulder surgeries ... and have used aider extensively. It has allowed me to continue productivity.* -- [codeninja](https://www.reddit.com/r/OpenAI/s/nmNwkHy1zG)
-- *I am an aider addict. I'm getting so much more work done, but in less time.* -- [dandandan](https://discord.com/channels/1131200896827654144/1131200896827654149/1135913253483069470)
-- *After wasting $100 on tokens trying to find something better, I'm back to Aider. It blows everything else out of the water hands down, there's no competition whatsoever.* -- [SystemSculpt](https://discord.com/channels/1131200896827654144/1131200896827654149/1178736602797846548)
-- *Aider is amazing, coupled with Sonnet 3.5 it’s quite mind blowing.* -- [Josh Dingus](https://discord.com/channels/1131200896827654144/1133060684540813372/1262374225298198548)
-- *Hands down, this is the best AI coding assistant tool so far.* -- [IndyDevDan](https://www.youtube.com/watch?v=MPYFPvxfGZs)
-- *[Aider] changed my daily coding workflows. It's mind-blowing how a single Python application can change your life.* -- [maledorak](https://discord.com/channels/1131200896827654144/1131200896827654149/1258453375620747264)
-- *Best agent for actual dev work in existing codebases.* -- [Nick Dobos](https://twitter.com/NickADobos/status/1690408967963652097?s=20)
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+有关更多详细信息，</font><font style="vertical-align: inherit;">请参阅
+</font></font><a href="https://aider.chat/docs/install.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装说明</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+和其他
+</font></font><a href="https://aider.chat/docs/usage.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2><a id="user-content-features" class="anchor" aria-label="固定链接：功能" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用您想要编辑的文件运行 aider：</font></font><code>aider &lt;file1&gt; &lt;file2&gt; ...</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要求更改：
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">添加新功能或测试用例。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">描述一个错误。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">粘贴错误消息或 GitHub 问题 URL。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重构代码。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更新文档。</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aider 将编辑您的文件以完成您的请求。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aider自动</font><font style="vertical-align: inherit;">使用合理的提交消息</font></font><a href="https://aider.chat/docs/git.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来提交更改。</font></font></a><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aider 支持</font></font><a href="https://aider.chat/docs/languages.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大多数流行语言</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：python、javascript、typescript、php、html、css 等……</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aider 与 GPT-4o 和 Claude 3.5 Sonnet 配合使用效果最佳，并且可以</font></font><a href="https://aider.chat/docs/llms.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接到几乎任何 LLM</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于复杂的请求，Aider 可以一次编辑多个文件。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aider 使用</font></font><a href="https://aider.chat/docs/repomap.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你的整个 git repo 的映射</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，这有助于它在更大的代码库中很好地运行。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在与 aider 聊天的同时在编辑器中编辑文件，它将始终使用最新版本。将程序与 AI 配对。</font></font></li>
+<li><a href="https://aider.chat/docs/usage/images-urls.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在聊天中添加图像</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（GPT-4o、Claude 3.5 Sonnet 等）。</font></font></li>
+<li><a href="https://aider.chat/docs/usage/images-urls.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将 URL 添加到聊天中</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，助手就会阅读其内容。</font></font></li>
+<li><a href="https://aider.chat/docs/usage/voice.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用你的声音编码</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">顶级表现</font></font></h2><a id="user-content-top-tier-performance" class="anchor" aria-label="永久链接：顶级表现" href="#top-tier-performance"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://aider.chat/2024/06/02/main-swe-bench.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aider 在 SWE Bench 上的得分最高</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。SWE Bench 是一个具有挑战性的软件工程基准测试，其中 Aider 解决了</font><font style="vertical-align: inherit;">来自流行开源项目（如 django、scikitlearn、matplotlib 等）的</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实际GitHub 问题。</font></font></em><font style="vertical-align: inherit;"></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多信息</font></font></h2><a id="user-content-more-info" class="anchor" aria-label="永久链接：更多信息" href="#more-info"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://aider.chat/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></li>
+<li><a href="https://aider.chat/docs/install.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></a></li>
+<li><a href="https://aider.chat/docs/usage.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用法</font></font></a></li>
+<li><a href="https://aider.chat/docs/usage/tutorials.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教程视频</font></font></a></li>
+<li><a href="https://aider.chat/docs/llms.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接法学硕士</font></font></a></li>
+<li><a href="https://aider.chat/docs/config.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></a></li>
+<li><a href="https://aider.chat/docs/troubleshooting.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">故障排除</font></font></a></li>
+<li><a href="https://aider.chat/docs/leaderboards/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LLM 排行榜</font></font></a></li>
+<li><a href="https://github.com/paul-gauthier/aider"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub</font></font></a></li>
+<li><a href="https://discord.gg/Tv2uQnR88V" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不和谐</font></font></a></li>
+<li><a href="https://aider.chat/blog/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来自用户的赞美</font></font></h2><a id="user-content-kind-words-from-users" class="anchor" aria-label="永久链接：来自用户的赞美之词" href="#kind-words-from-users"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最好的免费开源 AI 编码助手</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。—— </font></font><a href="https://youtu.be/YALpX8oOn78" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IndyDevDan</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">迄今为止最好的 AI 编码助手。——</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Matthew </font></font><a href="https://www.youtube.com/watch?v=df8afeb1FY8" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Berman</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aider......轻而易举地使我的编码效率提高了四倍</font></font></em><font style="vertical-align: inherit;"><a href="https://news.ycombinator.com/item?id=36212100" rel="nofollow"><font style="vertical-align: inherit;">。——</font></a><font style="vertical-align: inherit;"> SOLAR_FIELDS</font></font><a href="https://news.ycombinator.com/item?id=36212100" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><em><font style="vertical-align: inherit;"></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是一个很酷的</font><em><font style="vertical-align: inherit;">工作流程...Aider 的人体工程学设计对我来说非常完美。-- </font></em></font><a href="https://news.ycombinator.com/item?id=38185326" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">qup</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这真的就像让你的高级开发人员住在你的 Git 仓库中一样 - 真是太棒了！</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> —— </font></font><a href="https://github.com/paul-gauthier/aider/issues/124" data-hovercard-type="issue" data-hovercard-url="/paul-gauthier/aider/issues/124/hovercard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">rappster</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多么神奇的工具啊。真是不可思议</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。—— </font></font><a href="https://github.com/paul-gauthier/aider/issues/6#issue-1722897858" data-hovercard-type="issue" data-hovercard-url="/paul-gauthier/aider/issues/6/hovercard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">valyagolev</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aider 真是令人震惊的东西！</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> -- </font></font><a href="https://github.com/paul-gauthier/aider/issues/82#issuecomment-1631876700" data-hovercard-type="issue" data-hovercard-url="/paul-gauthier/aider/issues/82/hovercard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cgrothaus</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这比我开始制作最初几个工作版本的速度要快得多。——</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Daniel </font></font><a href="https://twitter.com/d_feldman/status/1662295077387923456" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Feldman</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢 Aider！它真的让人感觉像是看到了编码的未来</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。—— </font></font><a href="https://news.ycombinator.com/item?id=38205643" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">derwiki</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这真是太棒了。它让我可以自由地去做以前觉得不自在的事情。——</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">道</font></font><a href="https://discord.com/channels/1131200896827654144/1174002618058678323/1174084556257775656" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">格</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这个项目非常出色</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。—— </font></font><a href="https://github.com/paul-gauthier/aider/issues/112#issuecomment-1637429008" data-hovercard-type="issue" data-hovercard-url="/paul-gauthier/aider/issues/112/hovercard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">funkytaco</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">令人惊叹的项目，绝对是我用过的最好的 AI 编码助手</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。—— </font></font><a href="https://github.com/paul-gauthier/aider/issues/84" data-hovercard-type="issue" data-hovercard-url="/paul-gauthier/aider/issues/84/hovercard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">joshuavial</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我非常喜欢使用 Aider ...它让软件开发的体验变得更加轻松</font></font></em><font style="vertical-align: inherit;"><a href="https://discord.com/channels/1131200896827654144/1133421607499595858/1229689636012691468" rel="nofollow"><font style="vertical-align: inherit;">。--</font></a><font style="vertical-align: inherit;"> principalideal0</font></font><a href="https://discord.com/channels/1131200896827654144/1133421607499595858/1229689636012691468" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><em><font style="vertical-align: inherit;"></font></em><font style="vertical-align: inherit;"><a href="https://www.reddit.com/r/OpenAI/s/nmNwkHy1zG" rel="nofollow"><font style="vertical-align: inherit;">我已经从多次肩部手术中恢复过来</font></a><em><font style="vertical-align: inherit;">……并且广泛使用了 Aider。它让我继续保持生产力。--</font></em><font style="vertical-align: inherit;"> codeninja</font></font><a href="https://www.reddit.com/r/OpenAI/s/nmNwkHy1zG" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><em><font style="vertical-align: inherit;"></font></em><font style="vertical-align: inherit;"><a href="https://discord.com/channels/1131200896827654144/1131200896827654149/1135913253483069470" rel="nofollow"><font style="vertical-align: inherit;">我</font></a><em><font style="vertical-align: inherit;">是个助手迷。我做的工作越来越多，但用的时间却越来越少。——</font></em><font style="vertical-align: inherit;"> dandandan</font></font><a href="https://discord.com/channels/1131200896827654144/1131200896827654149/1135913253483069470" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><em><font style="vertical-align: inherit;"></font></em><font style="vertical-align: inherit;"><a href="https://discord.com/channels/1131200896827654144/1131200896827654149/1178736602797846548" rel="nofollow"><font style="vertical-align: inherit;">在花了 100 美元购买代币试图找到更好的产品后，我又</font></a><em><font style="vertical-align: inherit;">回到了 Aider。它完胜其他所有产品，完全没有竞争对手。——</font></em><font style="vertical-align: inherit;"> SystemSculpt</font></font><a href="https://discord.com/channels/1131200896827654144/1131200896827654149/1178736602797846548" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aider 非常棒，与 Sonnet 3.5 结合，简直令人震撼。——</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Josh </font></font><a href="https://discord.com/channels/1131200896827654144/1133060684540813372/1262374225298198548" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dingus</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">毫无疑问，这是迄今为止最好的 AI 编码辅助工具</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。—— </font></font><a href="https://www.youtube.com/watch?v=MPYFPvxfGZs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IndyDevDan</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Aider] 改变了我每天的编码工作流程。一个 Python 应用程序就能改变你的生活，这真是令人难以置信</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。—— </font></font><a href="https://discord.com/channels/1131200896827654144/1131200896827654149/1258453375620747264" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">maledorak</font></font></a></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现有代码库中实际开发工作的最佳代理。——</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Nick </font></font><a href="https://twitter.com/NickADobos/status/1690408967963652097?s=20" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dobos</font></font></a></li>
+</ul>
+</article></div>
